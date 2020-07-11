@@ -17,7 +17,7 @@ Visual Programming Semester Project
 <kbd><img src="images/img7.png" /></kbd>
 ## Level-5:
 <kbd><img src="images/img8.png" /></kbd>
-## High Score:
+## High Scores:
 <kbd><img src="images/img9.png" /></kbd>
 ## How to Play:
 <kbd><img src="images/img10.png" /></kbd>
