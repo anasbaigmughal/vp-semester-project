@@ -1,7 +1,6 @@
 # vp-semester-project
 Visual Programming Semester Project
 
-
 ## Home Screen:
 <kbd><img src="images/img1.jpg" /></kbd>
 ## Main Menu:
